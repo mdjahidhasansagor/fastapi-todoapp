@@ -4,8 +4,8 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 
 
-# PostgreSQL SETUP Link  jahid@2026J
-SQLALCHEMY_DATABASE_URL = 'postgresql://postgres.xlsqshgxgovaycexhway:jahid@2026J@aws-0-ap-southeast-1.pooler.supabase.com:5432/postgres'
+# PostgreSQL SETUP Link  Jahid12J342
+SQLALCHEMY_DATABASE_URL = 'postgresql://postgres.xlsqshgxgovaycexhway:Jahid12J342@aws-0-ap-southeast-1.pooler.supabase.com:5432/postgres'
 
 
 # MYSQL SETUP LINK
